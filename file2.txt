@@ -1,2 +1,5 @@
 this is the line after commit 3 and before commit 4
 this is the second file
+
+this is another new line to view the demo of squash command
+
